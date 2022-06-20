@@ -1,3 +1,28 @@
+/* mes modifications*/
+
+.StyleTexte {
+    
+    
+    font-size: 22px;
+    font-weight: 400;
+    color: rgb(87, 87, 87);
+    
+}
+.StyleCitation {
+    font-size: 20px;
+    font-weight: 400;
+    color: #333;
+}
+.StyleAuteurCitation {
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(122, 122, 122);
+}
+.InterligneTexte {
+    line-height: 1.2;
+}
+
+/* site de base */
 body {
     margin: 0;
     padding: 0;
