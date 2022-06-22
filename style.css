@@ -16,7 +16,7 @@
 .StyleAuteurCitation {
     font-size: 20px;
     font-weight: 400;
-    color: rgb(122, 122, 122);
+    color: rgb(88, 88, 88);
 }
 .InterligneTexte {
     line-height: 1.2;
@@ -801,16 +801,16 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: rgb(255, 255, 222)!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #e27250;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #b45d35!important;
     color: #FFFFFF!important;
 }
 
