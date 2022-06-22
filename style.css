@@ -21,6 +21,12 @@
 .InterligneTexte {
     line-height: 1.2;
 }
+.ColorBlack{
+    color: #000000;
+}
+.underline{
+    text-decoration: underline;
+}
 
 
 /* site de base */
@@ -674,10 +680,11 @@ h6,
 p,
 label,
 .btn,
-a {
+a{
     font-family: "helvetica";
     font-weight: 400;
-    color: #ffffff!important;
+    color: black!important;
+   
 }
 
 .container {
@@ -797,11 +804,11 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: rgb(170, 37, 26);
+    background-color: rgb(243, 151, 108);
 }
 
 .tc-white {
-    color: rgb(255, 255, 222)!important;
+    color: rgb(255, 255, 255)!important;
 }
 
 .btn-atomic-tangerine {
