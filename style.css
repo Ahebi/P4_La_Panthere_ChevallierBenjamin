@@ -130,7 +130,7 @@ a:hover {
 }
 
 .d-bloc button:hover {
-    color: rgba(255, 255, 255, .9);
+    color: rgba(255, 255, 255, 1);
 }
 
 .d-bloc .icon-round,
@@ -677,7 +677,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #ffffff!important;
 }
 
 .container {
@@ -797,7 +797,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: rgb(170, 37, 26);
 }
 
 .tc-white {
@@ -805,12 +805,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #e27250;
+    background: rgb(168, 3, 37);
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #b45d35!important;
+    background: rgb(172, 72, 5)!important;
     color: #FFFFFF!important;
 }
 
